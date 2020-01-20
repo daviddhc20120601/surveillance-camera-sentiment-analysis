@@ -5,4 +5,9 @@
 ## speed to production: ASAP
 ## deployment environment: totoly off the grid, on premise env
 ## Phase One POC timeline: lets use cloud , sentimental CV service first, show the demo and then move to on premise and then to realtime
-## request for help: aws credicts, azure credicts, GCP credicts, Aliyun credicts, Nvida platform migration support, labeling man power, sample data, project management resources
+## request for help: 
+### aws credicts, azure credicts, GCP credicts, Aliyun credicts, 
+### on premise Nvida platform migration support, 
+### labeling man power, 
+### sample data, hospital survailance video,
+### project management resources
